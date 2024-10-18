@@ -1,0 +1,20 @@
+
+nav{
+    padding: 20px;
+    background-color: rgb(216, 59, 59);
+    /* border: 2px solid red; */
+}
+ul{
+    display:  flex;
+    list-style: none;
+    text-decoration: none;
+}
+
+li{
+    margin-left: 2em;
+ }
+
+/* .App-link {
+color: #61dafb;
+text-decoration: none;
+} */
